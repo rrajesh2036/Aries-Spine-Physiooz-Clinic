@@ -1,0 +1,6 @@
+{
+  "name": "Aries Spine Physiooz Clinic",
+  "description": "Premium physiotherapy and spine rehabilitation clinic located in Kolar Road, Bhopal, Madhya Pradesh. Advanced anatomical spine care, sports rehabilitation, and joint mobility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
